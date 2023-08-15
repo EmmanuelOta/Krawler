@@ -1,0 +1,23 @@
+.rowStyle{
+	justify-content: center;
+	align-content: center;
+}
+
+.promptArea {
+	margin-top: 3rem;
+	justify-self: center !important;
+	align-self: center !important;
+	width: 80%;
+	border-radius: 8px;
+	border-color: black;
+}
+
+.promptArea:hover{
+	outline: grey;
+}
+
+.clearPrompt{
+	border-radius: 8px;
+	position: absolute;
+	bottom: 10px;
+}
